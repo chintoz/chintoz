@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning micronaut
+- 🌱 I’m currently learning Kubernetes
 
 <!--
 **chintoz/chintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
