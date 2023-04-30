@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning micronaut
-- 🌱 I’m currently learning Kubernetes
+- 🌱 May, Dart's month. I'm going to be focused on Dart language during the next 31 days.
+- 👯 I’m looking to collaborate on Kafkalytic plugin. I have an idea to improve the plugin. Working on a Pull Request for it.
 
 <!--
 **chintoz/chintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
