@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 May, Dart's month. I'm going to be focused on Dart language during the next 31 days.
-- 👯 I’m looking to collaborate on Kafkalytic plugin. I have an idea to improve the plugin. Working on a Pull Request for it.
+- 🌱 June, Scala's month again. I'm going to be focused on Dart language during the next 30 days. Furthermore, I'll complete the challenges from previous month in Dart.  🤦
+- 👯 Spring Cloud in Action. I'm reading it and I'm implementing the same "microservices" but with slightly changes. My own contribution.
 
 <!--
 **chintoz/chintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
