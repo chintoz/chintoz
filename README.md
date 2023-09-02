@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 June, Scala's month again. I'm going to be focused on Dart language during the next 30 days. Furthermore, I'll complete the challenges from previous month in Dart.  🤦
-- 👯 Spring Cloud in Action. I'm reading it and I'm implementing the same "microservices" but with slightly changes. My own contribution.
+- 🌱 September, MongoDB is the main goal. Complete MongoDB Java Path course and preparation for certification exam.
+- 🔭 Implement an solution entry about an enterprise pattern called Message Router.
 
 <!--
 **chintoz/chintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
