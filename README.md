@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, back on February those are the main goals:
 
-- 🌱 September, MongoDB is the main goal. Complete MongoDB Java Path course and preparation for certification exam.
-- 🔭 Implement an solution entry about an enterprise pattern called Message Router.
+- 🌱 MongoDB is the main goal. Complete MongoDB Java Path course and preparation for certification exam.
+- 🌱 Continue with React Udemy course
 
 <!--
 **chintoz/chintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
