@@ -1,7 +1,7 @@
 ### Hi there 👋, back on February those are the main goals:
 
-- 🌱 MongoDB is the main goal. Complete MongoDB Java Path course and preparation for certification exam.
-- 🌱 Continue with React Udemy course
+- 🌱 MongoDB is the main goal. Complete October Java Path course and preparation for certification exam.
+
 
 <!--
 **chintoz/chintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
