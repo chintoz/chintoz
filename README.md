@@ -1,6 +1,6 @@
-### Hi there 👋, back on February those are the main goals:
+### Hi there 👋, back on November those are the main goals:
 
-- 🌱 MongoDB is the main goal. Complete October Java Path course and preparation for certification exam.
+- 🌱 MongoDB is the main goal. Complete November Java Path course and preparation for certification exam.
 
 
 <!--
