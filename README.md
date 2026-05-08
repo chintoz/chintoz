@@ -1,7 +1,6 @@
-### Hi there 👋, back on December those are the main goals:
+### Hi there 👋, back on May those are the main goals:
 
-- 🌱 Kubernetes is going to be my best friend during 2025. I'm going to be preparing CKAD exam. Then for December, it'll be good to setup an environment with resources to start preparing it.
-- 🔭 I'd like to do a code Kata with my workmates. Farkle dice game is a good candidate. Goal for this month, it'll be prepare it to be done in January.
+- 🌱 Try out several AI tools to speed up my POCs and Katas
 
 
 <!--
